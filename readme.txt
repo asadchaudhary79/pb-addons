@@ -1,6 +1,3 @@
-===PB Addons ===
-
-Contributors:  muhammadasadmushtaq
 Tags: blog widgets, elementor, gutenberg, blog, premiumblog
 Requires at least: 4.7
 Tested up to: 6.5
@@ -13,7 +10,7 @@ Blog widgets for WordPress, Elementor.
 
 == Description ==
 
-[PB Addons](https://wordpress.org/plugins/pb-addons), Blog Widgets for WordPress) is a collection of beautiful blog widgets for Elementor and WordPress. Highly customizable elements for Elementor page builder.We are continuously working on adding native elements for more page builders to give you more power and customization options in your favorite page builder. You can help us improve the plugin by providing your valuable feedback.
+PB Addons Blog Widgets for WordPress) is a collection of beautiful blog widgets for Elementor and WordPress. Highly customizable elements for Elementor page builder.We are continuously working on adding native elements for more page builders to give you more power and customization options in your favorite page builder. You can help us improve the plugin by providing your valuable feedback.
 
 You can create amazing blog layouts by using supported page builder with any theme of your choice. All the widgets are highly customizable with pre-designed layouts. Just drag and drop the widgets and play with the settings and make cool layouts.
 
